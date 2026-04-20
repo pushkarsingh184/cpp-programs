@@ -1,0 +1,5 @@
+Enter your name: Pushkar
+Enter a positive integer: 24
+
+Pushkar
+Sum of digits = 6

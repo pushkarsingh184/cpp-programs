@@ -1,0 +1,5 @@
+Enter name: Pushkar
+Enter number of elements: 5
+Enter elements: 2 8 5 9 3
+Pushkar
+Max 9 Min 2

@@ -1,0 +1,6 @@
+Enter your name: Pushkar
+Enter value of n: 13
+
+Pushkar
+Prime numbers are:
+2 3 5 7 11 13

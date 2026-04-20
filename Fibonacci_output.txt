@@ -1,0 +1,6 @@
+Enter your name: Pushkar
+Enter number of terms: 5
+
+Pushkar
+First 5 terms of Fibonacci sequence are:
+0 1 1 2 3
