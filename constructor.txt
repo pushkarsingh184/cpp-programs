@@ -1,0 +1,6 @@
+Enter your name: Pushkar
+
+Pushkar
+10
+20
+20

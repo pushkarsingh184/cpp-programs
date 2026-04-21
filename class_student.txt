@@ -1,0 +1,16 @@
+Enter your name: Pushkar
+
+Pushkar
+Student Name = Aman
+Marks 1 = 80
+Marks 2 = 85
+Total = 165
+Average = 82.5
+Max Marks = 100
+
+Student Name = Birbal
+Marks 1 = 94
+Marks 2 = 86
+Total = 180
+Average = 90
+Max Marks = 100

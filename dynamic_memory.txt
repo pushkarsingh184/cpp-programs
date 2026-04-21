@@ -1,0 +1,8 @@
+Enter your name: Pushkar
+Enter first value: 4
+Enter second value: 6
+
+Pushkar
+First Value = 4
+Second Value = 6
+Sum = 10

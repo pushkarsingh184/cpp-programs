@@ -1,0 +1,7 @@
+Enter your name: Pushkar
+Enter Roll Number: 4044
+Enter Marks: 95
+
+Pushkar
+Roll Number = 4044
+Marks = 95
