@@ -1,0 +1,5 @@
+Enter your name: Pushkar
+
+Pushkar
+Friend Function : 10
+Friend Class : 10
