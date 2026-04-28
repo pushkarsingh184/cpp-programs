@@ -1,0 +1,23 @@
+Enter your name: Pushkar
+
+Pushkar
+
+Single Inheritance:
+Single Inheritance - Base Class A
+Derived Class B
+
+Multiple Inheritance:
+Base Class X
+Base Class Y
+Multiple Inheritance - Derived Class Z
+
+Multilevel Inheritance:
+Base Class P
+Intermediate Class Q
+Multilevel Inheritance - Derived Class R
+
+Hierarchical Inheritance:
+Base Class M
+Derived Class N
+Base Class M
+Derived Class O

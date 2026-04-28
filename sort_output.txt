@@ -1,0 +1,7 @@
+Enter your name: Pushkar
+Enter number of elements: 6
+Enter elements: 1 3 5 7 4 2
+
+Pushkar
+Sorted List in Ascending Order:
+1 2 3 4 5 7

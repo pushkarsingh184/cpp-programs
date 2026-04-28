@@ -1,0 +1,14 @@
+Enter your name: Pushkar
+
+Pushkar
+Creating Object...
+
+Constructor of Base1
+Constructor of Base2
+Constructor of Derived
+
+Object going out of scope...
+
+Destructor of Derived
+Destructor of Base2
+Destructor of Base1

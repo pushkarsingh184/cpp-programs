@@ -1,0 +1,4 @@
+Enter your name: Pushkar
+
+Pushkar
+Derived Class Function Invoked Through Base Class Pointer

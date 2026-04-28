@@ -1,0 +1,9 @@
+Enter your name: Pushkar
+Enter number of elements: 6
+Enter elements: 1 9 3 2 8 5
+
+Pushkar
+Largest Number = 9
+Smallest Number = 1
+Numbers in Ascending Order:
+1 2 3 5 8 9

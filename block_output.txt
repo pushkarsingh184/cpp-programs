@@ -1,0 +1,6 @@
+Enter your name: Pushkar
+Enter numerator: 5
+Enter denominator: 2
+
+Pushkar
+Result = 2
